@@ -1,0 +1,4 @@
+pandas==2.2.1
+numpy==1.26.4
+sklearn==1.5.0
+matplotlib==3.84
